@@ -7,3 +7,4 @@ setup file:
   
 Install pakages:
    - npm install express multer exceljs mongodb
+   - another wise open pakage.json file read pakages name install - command "npm install < pakages_Name >"
